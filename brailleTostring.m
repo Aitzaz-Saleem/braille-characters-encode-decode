@@ -1,4 +1,4 @@
-function outputString = braille2string(brailleCode, BRAILLE_ALPHABET)
+function outputString = brailleTostring(brailleCode, BRAILLE_ALPHABET)
     % Convert (decode) the Braille alphabet into a string.
 
     % Initialize an empty string to store the decoded output
