@@ -1,4 +1,4 @@
-function braille = string2braille(inputString, BRAILLE_ALPHABET)
+function braille = stringTobraille(inputString, BRAILLE_ALPHABET)
     % Convert (encode) a string into the Braille alphabet.
 
     % Initialize an empty string to store the encoded Braille
